@@ -1,6 +1,3 @@
-4칸 들여쓰기로 만든 것임.
-
-
 pipeline {
     agent any
 
